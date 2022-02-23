@@ -1,0 +1,2 @@
+# javascripting
+learning git, GitHub
